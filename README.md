@@ -7,7 +7,7 @@ The Reno Gang is also known as the Reno Brothers Gang and The Jackson Thieves, i
 Though short-lived, they carried out the first three peacetime train robberies in U.S. history.
 Most of the stolen money was never recovered.
 
-## Toutch Mapping 
+## Touch Mapping 
 
 The game in only playable by 2 players with controller. 2 Xbox or PS4 controller are needed to play. 									
 
@@ -42,4 +42,4 @@ Made in 4 Days during a Game Maker WorkShop.
 
 Special thanks to Elizabetha Volkova for her help on game asset and graphics. 
 
-2019.
+ 2019.
